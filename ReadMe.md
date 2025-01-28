@@ -60,7 +60,6 @@ Here are some screenshots of the game:
 ![Screenshot 6](https://github.com/MohamedElquesni/Mystic-Explorer/blob/main/screenshots/6.png)
 ![Screenshot 7](https://github.com/MohamedElquesni/Mystic-Explorer/blob/main/screenshots/7.png)
 ![Screenshot 8](https://github.com/MohamedElquesni/Mystic-Explorer/blob/main/screenshots/8.png)
-![Screenshot 9](https://github.com/MohamedElquesni/Mystic-Explorer/blob/main/screenshots/9.png)
 
 ### 🛠️ 11. Installation and Running the Game
 1. Clone the repository:
