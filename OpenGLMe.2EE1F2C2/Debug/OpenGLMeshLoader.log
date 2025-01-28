@@ -1,1 +1,22 @@
-﻿  OpenGLMeshLoader.vcxproj -> C:\Users\Ramez\OneDrive\Desktop\Uni\Graphics\Graphics3D\Final_Project\lab7_graphicsRamez\Debug\OpenGLMeshLoader19.exe
+﻿  GLTexture.cpp
+C:\Users\moham\OneDrive\Documents\Semester 7\Mo Semester 7\Graphics\Mystic Explorer\GLTexture.cpp(61,16): warning C4996: '_strlwr': This function or variable may be unsafe. Consider using _strlwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\moham\OneDrive\Documents\Semester 7\Mo Semester 7\Graphics\Mystic Explorer\GLTexture.cpp(65,17): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\moham\OneDrive\Documents\Semester 7\Mo Semester 7\Graphics\Mystic Explorer\GLTexture.cpp(77,16): warning C4996: '_strlwr': This function or variable may be unsafe. Consider using _strlwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\moham\OneDrive\Documents\Semester 7\Mo Semester 7\Graphics\Mystic Explorer\GLTexture.cpp(146,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Model_3DS.cpp
+  C:\Users\moham\OneDrive\Documents\Semester 7\Mo Semester 7\Graphics\Mystic Explorer\Model_3DS.cpp(78) : You need to uncomment this if you are using MFC
+C:\Users\moham\OneDrive\Documents\Semester 7\Mo Semester 7\Graphics\Mystic Explorer\Model_3DS.cpp(182,10): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\moham\OneDrive\Documents\Semester 7\Mo Semester 7\Graphics\Mystic Explorer\Model_3DS.cpp(212,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\moham\OneDrive\Documents\Semester 7\Mo Semester 7\Graphics\Mystic Explorer\Model_3DS.cpp(747,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  OpenGLMeshLoader.cpp
+C:\Users\moham\OneDrive\Documents\Semester 7\Mo Semester 7\Graphics\Mystic Explorer\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  (compiling source file 'OpenGLMeshLoader.cpp')
+  
+C:\Users\moham\OneDrive\Documents\Semester 7\Mo Semester 7\Graphics\Mystic Explorer\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  (compiling source file 'OpenGLMeshLoader.cpp')
+  
+C:\Users\moham\OneDrive\Documents\Semester 7\Mo Semester 7\Graphics\Mystic Explorer\OpenGLMeshLoader.cpp(1237,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\moham\OneDrive\Documents\Semester 7\Mo Semester 7\Graphics\Mystic Explorer\OpenGLMeshLoader.cpp(1388,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> C:\Users\moham\OneDrive\Documents\Semester 7\Mo Semester 7\Graphics\Mystic Explorer\Debug\OpenGLMeshLoader19.exe

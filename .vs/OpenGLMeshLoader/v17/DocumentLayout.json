@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ramez\\OneDrive\\Desktop\\Uni\\Graphics\\Graphics3D\\Final_Project\\lab7_graphicsRamez\\",
+  "WorkspaceRootPath": "C:\\Users\\moham\\OneDrive\\Documents\\Semester 7\\Mo Semester 7\\Graphics\\Mystic Explorer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EE1F2C2-040C-46D8-8332-127B746115A6}|OpenGLMeshLoader.vcxproj|C:\\Users\\Ramez\\OneDrive\\Desktop\\Uni\\Graphics\\Graphics3D\\Final_Project\\lab7_graphicsRamez\\OpenGLMeshLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2EE1F2C2-040C-46D8-8332-127B746115A6}|OpenGLMeshLoader.vcxproj|C:\\Users\\moham\\OneDrive\\Documents\\Semester 7\\Mo Semester 7\\Graphics\\Mystic Explorer\\OpenGLMeshLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2EE1F2C2-040C-46D8-8332-127B746115A6}|OpenGLMeshLoader.vcxproj|solutionrelative:OpenGLMeshLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "OpenGLMeshLoader.cpp",
-              "DocumentMoniker": "C:\\Users\\Ramez\\OneDrive\\Desktop\\Uni\\Graphics\\Graphics3D\\Final_Project\\lab7_graphicsRamez\\OpenGLMeshLoader.cpp",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\Semester 7\\Mo Semester 7\\Graphics\\Mystic Explorer\\OpenGLMeshLoader.cpp",
               "RelativeDocumentMoniker": "OpenGLMeshLoader.cpp",
-              "ToolTip": "C:\\Users\\Ramez\\OneDrive\\Desktop\\Uni\\Graphics\\Graphics3D\\Final_Project\\lab7_graphicsRamez\\OpenGLMeshLoader.cpp",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\Semester 7\\Mo Semester 7\\Graphics\\Mystic Explorer\\OpenGLMeshLoader.cpp",
               "RelativeToolTip": "OpenGLMeshLoader.cpp",
-              "ViewState": "AgIAAFQFAAAAAAAAAAAQwDMFAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAFQFAAAAAAAAAAAQwDMFAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-28T20:09:47.642Z",
               "IsPinned": true,
@@ -32,7 +32,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             }
           ]
         }
