@@ -1,0 +1,64 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 27.12.2016 11:11:20
+
+newmtl st_leather
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8157 0.9059 0.7686
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder gsm\rose blue\mtrunk11.jpg
+	map_Kd D:\New folder gsm\rose blue\mtrunk11.jpg
+	map_bump -bm 0.3000 D:\New folder gsm\rose blue\mtrunk11.jpg
+	bump -bm 0.3000 D:\New folder gsm\rose blue\mtrunk11.jpg
+
+newmtl st_gold
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9451 0.7725 0.4078
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder gsm\ттт\gold356.jpg
+	map_Kd D:\New folder gsm\ттт\gold356.jpg
+	map_bump -bm 0.3000 D:\New folder gsm\ттт\gold356.jpg
+	bump -bm 0.3000 D:\New folder gsm\ттт\gold356.jpg
+
+newmtl leaf
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8588 0.5569 0.4078
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder gsm\rose blue\leaves22.jpg
+	map_Kd D:\New folder gsm\rose blue\leaves22.jpg
+	map_bump D:\New folder gsm\rose blue\leaves22.jpg
+	bump D:\New folder gsm\rose blue\leaves22.jpg
+
+newmtl rose
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9412 0.9373 0.9294
+	Ks 0.0279 0.0279 0.0279
+	Ke 0.0000 0.0000 0.0000
+	map_Kd D:\New folder gsm\rose blue\flo_blue.jpg
+	map_refl D:\New folder gsm\rose blue\flo_blue.jpg

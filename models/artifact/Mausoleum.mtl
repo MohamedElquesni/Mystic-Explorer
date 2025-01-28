@@ -1,0 +1,39 @@
+#
+# Mausoleum.mtl
+#
+
+newmtl Wall1
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd C:\Users\LW\Documents\Mausoleum/RHSfoh_wall_1.png
+
+newmtl Wall2
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd C:\Users\LW\Documents\Mausoleum/RHSfoh_wall_2.png
+
+newmtl Interior
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd C:\Users\LW\Documents\Mausoleum/RHSfoh_interior.png
+
+newmtl Spire
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd C:\Users\LW\Documents\Mausoleum/RHSfoh_spire.png
