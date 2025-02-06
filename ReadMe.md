@@ -30,8 +30,8 @@ All models are textured:
 ### 🎮 6. Controls
 - **⌨️ Keyboard:** Used for player movement.
 - **🖱️ Mouse:**
-  - Mouse buttons allow the player to jump.
-  - Mouse buttons also alternate between camera views.
+  - Mouse right click allow the player to jump.
+  - Mouse left click also alternate between camera views.
 
 ### 🏅 7. Score Display
 - The game score is displayed on the screen during gameplay.
